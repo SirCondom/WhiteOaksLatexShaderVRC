@@ -6,7 +6,7 @@ Features: reflection of light
 ![a91083b7bc168f78d0a36c3bb8eacf83](https://user-images.githubusercontent.com/81419980/156875522-d0e62bf8-96fb-49c8-9240-f2800d9c998a.gif)
 
 CubeMaps Albedo Tint
-![Latex](https://user-images.githubusercontent.com/81419980/157113998-c1f2ce10-1896-4ad3-9c1f-a525ea7d3782.PNG)
+![image](https://user-images.githubusercontent.com/81419980/157199853-47758df2-a3dc-40df-8731-3be2e66fcab9.png)
 
 
 
