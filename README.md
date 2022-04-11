@@ -12,9 +12,8 @@ CubeMaps mat caps Albedo Tint and here's 4.0 update
 
 
 
-2.0 update is in alpha atm so some stuff is a bit broken but still have fun with it! ;3
 
-Added Emmisions to to the latex that only work in realtime because i hate baked lighting in vrc c:
+Added Emmisions to to the latex
 ![5b5598e0b83d32416dca31b26b68cc42](https://user-images.githubusercontent.com/81419980/157045660-e506b640-d99f-4cbc-bf4a-b93276594332.gif)
 
 
