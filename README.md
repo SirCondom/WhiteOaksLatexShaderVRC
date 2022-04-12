@@ -9,7 +9,7 @@ CubeMaps mat caps Albedo Tint and here's 4.0 update
 
 ![image](https://user-images.githubusercontent.com/81419980/162759987-b605f7cd-4476-463e-946f-fea6b6814e2b.png)
 
-
+Depending on what matcaps you use you can get yours to look like this ![image](https://user-images.githubusercontent.com/81419980/162854243-4c54004b-69cc-4016-9112-c34fa0b4ba53.png)
 
 
 
