@@ -17,4 +17,4 @@ Added Emmisions to to the latex
 ![5b5598e0b83d32416dca31b26b68cc42](https://user-images.githubusercontent.com/81419980/157045660-e506b640-d99f-4cbc-bf4a-b93276594332.gif)
 
 
-if you want to support me there is a gumroad version for 1 Euro up soon
+if you want to support me there is a gumroad version for 1 Euro  https://wf3d.gumroad.com/l/tgltn
